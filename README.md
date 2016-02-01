@@ -28,13 +28,6 @@ Introduction about ngs-swift
 <br />
 ************************************************************************************************
 
-<b>Latest release and suitable platform</b>
-
-<sub><b>ngs-swift-20150621-ubuntu14.04-x86_64-light </b> in Amazon aws cloud  (Features with * excluded from light version AMI) </b></sub>
-
-<br />
-************************************************************************************************
-
 <b>Disclaimer</b>
 
 <sub>Please be aware that it is the user's responsibility to comply all the related policies and 
