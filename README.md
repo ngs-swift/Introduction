@@ -23,6 +23,13 @@
 * <sub>*Accessing public s3 NGS data like local file system - saving disc spaces and data transferring time</sub>
 
 
+************************************************************************************************
+
+<b>Contact</b>
+
+<sub>If you have any suggestion ro question regarding ngs-swift, please consult with Chunlin Xiao at xiao2@mail.nih.gov</sub>.
+
+
 <br />
 ************************************************************************************************
 
