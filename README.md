@@ -9,7 +9,7 @@
   RNAseq analysis tools (tophat, cufflinks, STAR, hisat etc), <br />
   Common utility tools (vcftools, bedtools, tabix, R etc), <br />
   NCBI developed SRA Toolkit and NGS Software Development Kit, and<br />
-  *Assembly tools (falcon, soapdenovo, sga, wga/CA etc) </sub><br />
+  *Assembly tools (falcon, etc) </sub><br />
 
 
 <br />
