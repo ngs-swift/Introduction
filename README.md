@@ -18,7 +18,7 @@
 <b>Full Features</b>
 
 * <sub>Customized AMI with pre-configured tools - no more installations and configurations for tools</sub>
-* <sub>Analyzing control-accessed dbGaP data directly without downloading - saving disc spaces and downloadin time</sub>
+* <sub>Analyzing control-accessed dbGaP data directly without downloading - saving disc spaces and downloading time</sub>
 * <sub>Flexibility  - users can add their own (proprietary or licensed) tools as they like, eg. rtgtools, GATK etc</sub>
 * <sub>*Accessing public s3 NGS data like local file system - saving disc spaces and data transferring time</sub>
 
