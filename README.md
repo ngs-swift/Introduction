@@ -7,9 +7,9 @@
   Popular aligners (bwa, bowtie2, soap2 etc), <br />
   Variant callers (samtools/bcftools, freebayes, snptools, soapsnp, cortex, varscan etc), <br />
   RNAseq analysis tools (tophat, cufflinks, STAR, hisat etc), <br />
-  Common utility tools (vcftools, bedtools, tabix, R, s3cmd, aws, etc), <br />
+  Common utility tools (vcftools, bedtools, tabix, picard, R, PLINK, s3cmd, aws, etc), <br />
   NCBI developed SRA Toolkit and NGS Software Development Kit, and<br />
-  *Assembly tools (falcon, etc) </sub><br />
+  *Assembly tools (FALCON, SGA, SOAPdenovo, CA etc) </sub><br />
 
 
 <br />
